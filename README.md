@@ -5,7 +5,7 @@ Main info:
 
 - Dataset: [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html#dataset)
 
-- Running Enviroment: Google Colab
+- Running Environment: Google Colab
 
 - Framework: PyTorch
 
