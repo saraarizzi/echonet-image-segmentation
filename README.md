@@ -10,6 +10,8 @@ Main info:
 - Framework: PyTorch
 
 
-This repository contains the code, the processed data, the models weights, and project results.
+This repository contains the code, and project results.
 
-The project results are presented in the file [project_presentation.pdf](project_presentation.pdf)
+The preprocessed data used in the notebooks can be obtained with the script in [preprocess-echonet.pdf](preprocess-echonet.py).
+
+The project results are presented in the file [project_presentation.pdf](project_presentation.pdf).
